@@ -1,0 +1,21 @@
+view{height: 150%}
+.q{background-color:chartreuse;height: 12vh}
+.l{background: rgba(18, 95, 215, 0.82);
+       width: 100px;
+       height: 30px;
+       font-weight: unset;
+       color: black;
+       margin-left: 45%;
+       margin-right: 50%;}
+.l{border-collapse: collapse}
+.v{color: black}
+.n{color: black}
+.b{color: white}
+.overlay {
+       position: absolute;
+       min-height: 100%;
+       min-width: 100%;
+       left: 0;
+       top: 0;
+       background: rgba(0, 0, 0, 0.6);
+}
